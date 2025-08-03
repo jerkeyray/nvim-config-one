@@ -1,3 +1,2 @@
-require('config.options')
-require('config.keybinds')
-require('config.lazy')
+require("jerkeyray.core")
+require("jerkeyray.lazy")
