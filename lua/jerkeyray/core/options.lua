@@ -7,7 +7,7 @@ opt.number = true
 
 opt.tabstop = 2
 opt.shiftwidth = 2
-opt.expandtab = true 
+opt.expandtab = true
 opt.autoindent = true
 
 opt.wrap = false
@@ -26,6 +26,5 @@ opt.backspace = "indent,eol,start"
 opt.clipboard:append("unnamedplus")
 
 --split windows
-opt.splitright = true 
+opt.splitright = true
 opt.splitbelow = true
-
